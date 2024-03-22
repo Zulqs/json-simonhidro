@@ -1,0 +1,12 @@
+{
+  "data": [
+    { "tanggal": "07-01-2024",
+      "suhu": "23",
+      "pH": "6.2",
+      "ec": "1.2 mS/cm",
+      "berat": "-",
+      "tinggi": "1 cm",
+      "daun": "<2 Daun",
+      "warnadaun": "Hijau Muda" }
+  ]
+}
